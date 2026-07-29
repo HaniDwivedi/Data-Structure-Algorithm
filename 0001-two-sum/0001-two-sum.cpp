@@ -1,54 +1,24 @@
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
-#include <stdio.h>
-#include <stdlib.h>
+#include <bits/stdc++.h>
+using namespace std;
 
-#define HASH_SIZE 10000
-
-typedef struct {
-    int key;
-    int value;
-} HashItem;
-
-int hash(int key) {
-    return abs(key) % HASH_SIZE;
-}
-
-void insert(HashItem** hashTable, int key, int value) {
-    int index = hash(key);
-    while (hashTable[index] != NULL) {
-        index = (index + 1) % HASH_SIZE;
-    }
-    hashTable[index] = (HashItem*)malloc(sizeof(HashItem));
-    hashTable[index]->key = key;
-    hashTable[index]->value = value;
-}
-
-int find(HashItem** hashTable, int key) {
-    int index = hash(key);
-    while (hashTable[index] != NULL) {
-        if (hashTable[index]->key == key) {
-            return hashTable[index]->value;
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> numMap;
+        int n = nums.size();
+        
+        for (int i = 0; i < n; i++) {
+            int complement = target - nums[i];
+            
+            // Check karein ki complement map mein pehle se present hai ya nahi
+            if (numMap.count(complement)) {
+                return {numMap[complement], i};
+            }
+            
+            // Current number aur uska index map mein store karein
+            numMap[nums[i]] = i;
         }
-        index = (index + 1) % HASH_SIZE;
+        
+        return {}; // No solution case (waise problem ke mutabiq hamesha ek solution hoga)
     }
-    return -1;
-}
-
-int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
-int* result=(int*)malloc(2*sizeof(int));
-*returnSize=2;
-for(int i=0; i<numsSize;i++){
-    for(int j=i+1;j<numsSize;j++){
-        if(nums[i]+nums[j]==target){
-            result[0]=i;
-            result[1]=j;
-            return result;
-        }
-    }
-}
-
-return NULL;
-}
-   
+};
