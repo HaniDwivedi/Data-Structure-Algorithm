@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
