@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0001-two-sum) |
+| [0137-single-number-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 ## Simulation
 |  |
 | ------- |
