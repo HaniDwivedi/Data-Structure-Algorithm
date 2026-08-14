@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0147-insertion-sort-list) |
 ## Two Pointers
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
