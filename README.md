@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
