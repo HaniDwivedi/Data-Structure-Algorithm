@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0147-insertion-sort-list) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
