@@ -1,41 +1,48 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        if (!head || !head->next || !head->next->next) {
-            return {-1, -1};
-        }
+        vector<int> idx; 
+           
+        ListNode * curr = new ListNode ();
+        ListNode * prev = new ListNode ();
+        prev = head ; 
+        curr= head->next ;
+        int i=1 ; 
+        while ( curr -> next ){
+           if(curr->val>prev->val&&curr ->val> curr-> next -> val|| curr->val<prev->val&&curr ->val< curr-> next -> val){
+            idx.push_back(i);
+           }
+        i++;
+        prev=curr ; 
+        curr= curr-> next ;
 
-        ListNode* prev = head;
-        ListNode* curr = head->next;
-        int i = 1;
 
-        int firstCritIdx = -1;
-        int prevCritIdx = -1;
-        int minDistance = INT_MAX;
 
-        while (curr->next) {
-          
-            if ((curr->val > prev->val && curr->val > curr->next->val) ||
-                (curr->val < prev->val && curr->val < curr->next->val)) {
-                
-                if (firstCritIdx == -1) {
-                    firstCritIdx = i;  } else {
-                  
-                    minDistance = min(minDistance, i - prevCritIdx);
-                }
-                prevCritIdx = i;  }
 
-            prev = curr;
-            curr = curr->next;
-            i++;
-        }
+        } 
+      if (idx.size() < 2) return {-1, -1};
 
-       
-        if (minDistance == INT_MAX) {
-            return {-1, -1};
-        }
+int mi = INT_MAX;
+int ma = idx.back() - idx[0]; // Maximum distance always first & last point ke beech me hoga
 
-        int maxDistance = prevCritIdx - firstCritIdx;
-        return {minDistance, maxDistance};
+// Minimum distance ke liye sirf adjacent elements check karein
+for (int i = 1; i < idx.size(); i++) {
+    mi = min(mi, idx[i] - idx[i - 1]);
+}
+
+return {mi, ma};
+
+return {mi, ma};
+    
     }
 };
