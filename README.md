@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0147-insertion-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
