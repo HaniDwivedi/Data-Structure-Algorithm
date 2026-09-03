@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0035-search-insert-position) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
