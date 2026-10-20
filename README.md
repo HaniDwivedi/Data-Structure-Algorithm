@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1046-last-stone-weight) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2404-most-frequent-even-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0147-insertion-sort-list) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0897-increasing-order-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## DP on Trees
 |  |
 | ------- |
