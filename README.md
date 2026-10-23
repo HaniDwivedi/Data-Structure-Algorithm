@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3731-find-missing-elements) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
