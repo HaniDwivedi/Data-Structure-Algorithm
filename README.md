@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
+| [0605-can-place-flowers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
