@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0035-search-insert-position) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0374-guess-number-higher-or-lower](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0897-increasing-order-search-tree) |
@@ -362,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
