@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
+| [2409-count-days-spent-together](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
