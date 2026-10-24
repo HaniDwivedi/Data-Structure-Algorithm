@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
+| [1492-the-kth-factor-of-n](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [2409-count-days-spent-together](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -367,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
