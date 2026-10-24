@@ -10,22 +10,23 @@
  * };
  */
 class Solution {
-public:int flag=0;
-void preorder(TreeNode* root,int target){
-    if(root==NULL)return ;
-    if(root->val!=target)flag=1;
-    preorder(root->left,target);
-  preorder(root->right,target);
- 
+public:
+int preorder(TreeNode* root,int target){
+    if(root==NULL)return 1;
+    if(root->val!=target)return -1;
+    int l=preorder(root->left,target);
+   int r= preorder(root->right,target);
+   if(l==-1||r==-1)return -1;
+   else return 1;
 }
 
 
     bool isUnivalTree(TreeNode* root) {
           int target=root->val;
-      preorder(root,target); 
+        int ans=  preorder(root,target); 
         
         
-        if(flag==1)return false;
+        if(ans==-1)return false;
         else return true;
            }
 };
