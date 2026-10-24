@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2404-most-frequent-even-element) |
