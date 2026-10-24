@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1046-last-stone-weight) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 ## Recursion
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 ## Bracket Sequences
 |  |
