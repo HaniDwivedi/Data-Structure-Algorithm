@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0968-binary-tree-cameras) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 ## Recursion
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 ## Interactive
 |  |
 | ------- |
