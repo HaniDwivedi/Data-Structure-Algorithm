@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
+| [0485-max-consecutive-ones](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
