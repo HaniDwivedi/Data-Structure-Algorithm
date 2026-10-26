@@ -18,9 +18,8 @@ public:
     
     if(l!=NULL&&r!=NULL)return root;
     if(l!=NULL&&r==NULL)return l;
-      if(r!=NULL&&l==NULL)return r;
-TreeNode* n=NULL;
-      return n;
-    
+      if(r!=NULL&&l==NULL)return r;        
+
+    else return NULL;
     }
 };
