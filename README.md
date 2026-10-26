@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
