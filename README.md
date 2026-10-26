@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
 | ------- |
