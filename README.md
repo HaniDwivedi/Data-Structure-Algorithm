@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0035-search-insert-position) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0700-search-in-a-binary-search-tree) |
