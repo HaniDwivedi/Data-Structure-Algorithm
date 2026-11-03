@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0200-number-of-islands) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
