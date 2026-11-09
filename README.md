@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1470-shuffle-the-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0968-binary-tree-cameras) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
 |  |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
@@ -395,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
