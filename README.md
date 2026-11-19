@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2404-most-frequent-even-element) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0605-can-place-flowers](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2248-intersection-of-multiple-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
