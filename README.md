@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/HaniDwivedi/Data-Structure-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
